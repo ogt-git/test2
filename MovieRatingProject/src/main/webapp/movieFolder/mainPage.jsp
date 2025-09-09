@@ -13,7 +13,7 @@
 	<%@ include file="menuPage.jsp"%>
 	<%@ include file="dbconn.jsp" %>
 	 
-  	<h1 class="text-center mb-0">영화 평가 사이트 깃허브 수정</h1>
+  	<h1 class="text-center mb-0">영화 평가 사이트</h1>
 
 		<div class="d-flex justify-content-end mb-4">
 		  <form action="category_mainPage.jsp" name="main_sort_by_category" method="post">
